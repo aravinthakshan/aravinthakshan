@@ -1,6 +1,6 @@
 # Hi there, I'm A S Aravinthakshan! 👋
 
-Welcome to my GitHub profile! I’m a Computer Science and Engineering student at MIT, Manipal, with a strong focus on AI, Machine Learning, and Deep Learning. M
+Welcome to my GitHub profile! I’m a Computer Science and Engineering student at MIT, Manipal, with a strong focus on AI, Machine Learning, and Deep Learning.
 
 ---
 
