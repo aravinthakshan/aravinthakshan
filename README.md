@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering student a
   Implemented deep learning algorithms for feature selection and data pre-processing; working on a research paper introducing a novel denoising architecture.
 
 - **ML and NLP Intern** at Larsen & Toubro  
-  Standardized construction activity codes, developed a Streamlit app, and implemented a semantic search feature for efficient knowledge management.
+  Standardized construction activity codes, developed a Streamlit app, and implemented a semantic search feature for efficient knowledge management, and developed a polynomial regression model for predicting duration of future projects.
 
 - **Founders Office Intern** at BugBase  
   Conducted market analysis, managed social media, and worked on RAG.
