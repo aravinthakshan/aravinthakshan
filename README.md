@@ -1,11 +1,10 @@
 # Hi there, I'm A S Aravinthakshan! 👋
 
-Welcome to my GitHub profile! I’m a Computer Science and Engineering student at MIT, Manipal, with a strong focus on AI, Machine Learning, and Deep Learning. My journey in tech spans multiple domains, from software development to robotics, and I'm always excited to learn and collaborate on innovative projects.
-
+Welcome to my GitHub profile! I’m a Computer Science and Engineering student at MIT, Manipal, with a strong focus on AI, Machine Learning, and Deep Learning. M
 
 ---
 
-### 💼 Experiences
+### Experiences
 - **Prism Intern** at Samsung R&D  
   Developing a Django-based web application for multi-view image annotation with advanced 3D rendering using React and Next.js.
 
@@ -19,7 +18,7 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering student a
   Conducted market analysis, managed social media, and worked on RAG.
 
 ---
-### 📈 GitHub Stats
+### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aravinthakshan&show_icons=true&theme=radical)
 ---
 
