@@ -17,9 +17,4 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering student a
 - **Founders Office Intern** at BugBase  
   Conducted market analysis, managed social media, and worked on RAG.
 
----
-### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aravinthakshan&show_icons=true&theme=radical)
----
-
 Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/aravinthakshan) or check out more of my work on [GitHub](https://github.com/aravinthakshan)! 🚀
