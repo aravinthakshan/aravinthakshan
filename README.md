@@ -16,10 +16,9 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering student a
   Standardized construction activity codes, developed a Streamlit app, and implemented a semantic search feature for efficient knowledge management.
 
 - **Founders Office Intern** at BugBase  
-  Conducted market analysis, managed social media, and developed automation for cross-platform posting.
+  Conducted market analysis, managed social media, and worked on RAG.
 
 ---
-
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aravinthakshan&show_icons=true&theme=radical)
 ---
