@@ -5,6 +5,10 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering student a
 ---
 
 ### Experiences
+
+- **Machine Learning Engineer Intern** at ProCodeBase
+  Developing AI Agents capable of automating complex tasks with adaptable contextual memory and tools.
+
 - **Prism Intern** at Samsung R&D  
   Developing a Django-based web application for multi-view image annotation with advanced 3D rendering using React and Next.js.
 
