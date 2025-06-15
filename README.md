@@ -11,7 +11,10 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering student a
 
 - **Prism Intern** at Samsung R&D  
   Developing a Django-based web application for multi-view image annotation with advanced 3D rendering using React and Next.js.
-
+  
+- **Project Intern** at Intel
+  Benchmarked and created a pipeline for DLStreamer, OpenVINO
+  
 - **AI Researcher** at Mars Rover Manipal  
   Implemented deep learning algorithms for feature selection and data pre-processing; working on a research paper introducing a novel denoising architecture.
 
