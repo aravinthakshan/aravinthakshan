@@ -6,6 +6,12 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering student a
 
 ### Experiences
 
+- **Software Engineer at Paper2Audio**  
+  Full-stack web and Android development and AI pipeline integrations.
+
+- **AI Research Intern at IIT Gandhinagar**  
+  Contributed to research with two papers currently under review at a top-tier (A-rank, Q1) conference and journal.
+
 - **Machine Learning Engineer Intern** at ProCodeBase
   Developing AI Agents capable of automating complex tasks with adaptable contextual memory and tools.
 
