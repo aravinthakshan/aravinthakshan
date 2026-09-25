@@ -1,3 +1,11 @@
+<a href="https://aravinthakshan.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.png">
+    <img align="right" width="260" alt="Halftone portrait of A S Aravinthakshan" src="assets/portrait-dark.png">
+  </picture>
+</a>
+
 ## Hi there, I'm A S Aravinthakshan! 👋
 
 Welcome to my GitHub profile! I'm a final-year Computer Science student at MIT, Manipal, with a love for machine learning, software and research.
