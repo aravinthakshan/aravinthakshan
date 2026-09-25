@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a final-year Computer Science student at MIT, 
 
 #### Experience
 
-I'm currently working as a Software Engineer at Paper2Audio, building across Android, iOS, web and browser extensions.
+I'm currently working as a Software Engineer (Contractor) at Paper2Audio, building across Android, iOS, web and browser extensions.
 
 #### Get in touch
 
